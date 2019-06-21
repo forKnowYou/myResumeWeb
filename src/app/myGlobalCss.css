@@ -1,0 +1,235 @@
+
+.container {
+  width: 100vw; 
+  height: 100vh; 
+  display: flex; 
+  flex-direction: column;
+} 
+
+.comCen {   /* components center */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+  
+.comRow {   /* components row */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.w100h100 {
+  width: 100%;
+  height: 100%;
+}
+
+.w5h100 {
+  width: 5%;
+  height: 100%;
+}
+
+.w10h100 {
+  width: 10%;
+  height: 100%;
+}
+
+.w15h100 {
+  width: 15%;
+  height: 100%;
+}
+
+.w20h100 {
+  width: 20%;
+  height: 100%;
+}
+
+.w25h100 {
+  width: 25%;
+  height: 100%;
+}
+
+.w30h100 {
+  width: 30%;
+  height: 100%;
+}
+
+.w33h100 {
+  width: 33%;
+  height: 100%;
+}
+
+.w35h100 {
+  width: 35%;
+  height: 100%;
+}
+
+.w40h100 {
+  width: 40%;
+  height: 100%;
+}
+
+.w45h100 {
+  width: 45%;
+  height: 100%;
+}
+
+.w50h100 {
+  width: 50%;
+  height: 100%;
+}
+
+.w55h100 {
+  width: 55%;
+  height: 100%;
+}
+
+.w60h100 {
+  width: 60%;
+  height: 100%;
+}
+
+.w66h100 {
+  width: 66%;
+  height: 100%;
+}
+
+.w65h100 {
+  width: 65%;
+  height: 100%;
+}
+
+.w70h100 {
+  width: 70%;
+  height: 100%;
+}
+
+.w75h100 {
+  width: 25%;
+  height: 100%;
+}
+
+.w80h100 {
+  width: 80%;
+  height: 100%;
+}
+
+.w85h100 {
+  width: 85%;
+  height: 100%;
+}
+
+.w90h100 {
+  width: 90%;
+  height: 100%;
+}
+
+.w95h100 {
+  width: 95%;
+  height: 100%;
+}
+
+.w100h5 {
+  height: 5%;
+  width: 100%;
+}
+
+.w100h15 {
+  height: 15%;
+  width: 100%;
+}
+
+.w100h10 {
+  height: 10%;
+  width: 100%;
+}
+
+.w100h20 {
+  height: 20%;
+  width: 100%;
+}
+
+.w100h25 {
+  height: 25%;
+  width: 100%;
+}
+
+.w100h30 {
+  height: 30%;
+  width: 100%;
+}
+
+.w100h33 {
+  height: 33%;
+  width: 100%;
+}
+
+.w100h35 {
+  height: 35%;
+  width: 100%;
+}
+
+.w100h40 {
+  height: 40%;
+  width: 100%;
+}
+
+.w100h45 {
+  height: 45%;
+  width: 100%;
+}
+
+.w100h50 {
+  height: 50%;
+  width: 100%;
+}
+
+.w100h55 {
+  height: 55%;
+  width: 100%;
+}
+
+.w100h60 {
+  height: 60%;
+  width: 100%;
+}
+
+.w100h65 {
+  height: 65%;
+  width: 100%;
+}
+
+.w100h66 {
+  height: 66%;
+  width: 100%;
+}
+
+.w100h70 {
+  height: 70%;
+  width: 100%;
+}
+
+.w100h75 {
+  height: 75%;
+  width: 100%;
+}
+
+.w100h80 {
+  height: 80%;
+  width: 100%;
+}
+
+.w100h85 {
+  height: 85%;
+  width: 100%;
+}
+
+.w100h90 {
+  height: 90%;
+  width: 100%;
+}
+
+.w100h95 {
+  height: 95%;
+  width: 100%;
+}
